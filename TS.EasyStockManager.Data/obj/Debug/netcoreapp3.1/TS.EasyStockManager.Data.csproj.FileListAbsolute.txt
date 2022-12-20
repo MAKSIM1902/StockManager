@@ -1,0 +1,16 @@
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Data.deps.json
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Data.runtimeconfig.json
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Data.runtimeconfig.dev.json
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Data.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Data.pdb
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Common.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Common.pdb
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.csproj.AssemblyReference.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.AssemblyInfoInputs.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.AssemblyInfo.cs
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.csproj.CopyComplete
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.pdb
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Data\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Data.genruntimeconfig.cache

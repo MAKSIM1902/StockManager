@@ -1,0 +1,5 @@
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Service\obj\Debug\netcoreapp3.1\TS.StockManager.Service.csproj.AssemblyReference.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Service\obj\Debug\netcoreapp3.1\TS.StockManager.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Service\obj\Debug\netcoreapp3.1\TS.StockManager.Service.AssemblyInfoInputs.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Service\obj\Debug\netcoreapp3.1\TS.StockManager.Service.AssemblyInfo.cs
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Service\obj\Debug\netcoreapp3.1\TS.StockManager.Service.csproj.CoreCompileInputs.cache

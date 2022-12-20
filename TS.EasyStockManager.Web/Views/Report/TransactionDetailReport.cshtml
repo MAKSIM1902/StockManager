@@ -1,0 +1,132 @@
+﻿@model TS.EasyStockManager.Model.ViewModel.Report.TransactionDetail.SearchTransactionDetailReportViewModel
+@{
+    ViewData["Title"] = "Transaction Detail Report";
+}
+
+<section class="content pt-2">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-secondary">
+                    <div class="card-header">
+                        <h3 class="card-title">Фильтр отчета о транзакциях</h3>
+                    </div>
+                    <div class="card-body dataTable-search-form">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label asp-for="TransactionCode">Код транзакции</label>
+                                    <input asp-for="TransactionCode" type="text" class="form-control-sm form-control enter-keyup">
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label asp-for="ProductId">Товар</label>
+                                    <select asp-for="ProductId" class="form-control form-control-sm">
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label asp-for="TransactionTypeId">Категория транзакции</label>
+                                    <select asp-for="TransactionTypeId" class="form-control form-control-sm" asp-items="Html.GetEnumSelectList<TS.EasyStockManager.Common.Enums.TransactionType>()">
+                                        <option value="">Выбрать категорию транзакции</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label asp-for="SearchStartDate">Дата начала</label>
+                                    <input asp-for="SearchStartDate" type="text" class="form-control-sm form-control enter-keyup datepicker">
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label asp-for="SearchEndDate">Дата конца</label>
+                                    <input asp-for="SearchEndDate" type="text" class="form-control-sm form-control enter-keyup datepicker">
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label asp-for="StoreId">Склад приема</label>
+                                    <select asp-for="StoreId" class="form-control form-control-sm" asp-items="Model.StoreList">
+                                        <option value="">Выбрать склад</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <label asp-for="ToStoreId">Склад получения</label>
+                                    <select asp-for="ToStoreId" class="form-control form-control-sm" asp-items="Model.ToStoreList">
+                                        <option value="">Выбрать склад</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 text-right">
+                                <button id="btnClear" type="button" class="btn btn-secondary btn-sm"><i class="fas fa-sync-alt"></i> Очистить</button>
+                                <button id="btnFilter" type="button" class="btn btn-primary btn-sm"><i class="fas fa-search"></i> Фильтр</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="card card-secondary">
+                    <div class="card-header">
+                        <h3 class="card-title">Отчет о транзакциях</h3>
+                    </div>
+                    <div class="card-body">
+                        <table id="datatable" class="table table-bordered table-hover dt-responsive nowrap w-100">
+                            <thead>
+                                <tr>
+                                    <th>Код транзакции</th>
+                                    <th>Категория транзакции</th>
+                                    <th>Товар</th>
+                                    <th>Склад приема</th>
+                                    <th>Склад получения</th>
+                                    <th>Цена</th>
+                                    <th>Дата транзакции</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <th>Код транзакции</th>
+                                    <th>Категория транзакции</th>
+                                    <th>Товар</th>
+                                    <th>Склад приема</th>
+                                    <th>Склад получения</th>
+                                    <th>Цена</th>
+                                    <th>Дата транзакции</th>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section style{
+    <partial name="~/Views/Shared/_DataTableStylePartial.cshtml" />
+    <link href="~/plugins/select2/css/select2.min.css" rel="stylesheet" />
+    <link href="~/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/plugins/daterangepicker/daterangepicker.css" rel="stylesheet" />
+    <link href="~/plugins/icheck-bootstrap/icheck-bootstrap.min.css" rel="stylesheet">
+}
+@section script{
+    <partial name="~/Views/Shared/_DataTableScriptPartial.cshtml" />
+    <script src="~/plugins/select2/js/select2.full.min.js"></script>
+    <script src="~/plugins/moment/moment.min.js"></script>
+    <script src="~/plugins/daterangepicker/daterangepicker.js"></script>
+    <script src="~/pages/report/transaction-deatil-report.js"></script>
+}
+
+

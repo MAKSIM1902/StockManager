@@ -1,0 +1,12 @@
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Common.deps.json
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Common.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Common.pdb
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.csproj.AssemblyReference.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.Message.CommonMessages.resources
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.csproj.GenerateResource.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.AssemblyInfoInputs.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.AssemblyInfo.cs
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Common\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Common.pdb

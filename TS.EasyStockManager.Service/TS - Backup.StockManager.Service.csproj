@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TS.EasyStockManager.Core\TS.StockManager.Core.csproj" />
+    <ProjectReference Include="..\TS.StockManager.Model\TS.StockManager.Model.csproj" />
+    <ProjectReference Include="..\TS.StockManager.Common\TS.StockManager.Common.csproj" />
+    <ProjectReference Include="..\TS.StockManager.Core\TS.StockManager.Core.csproj" />
+    <ProjectReference Include="..\TS.StockManager.Model\TS.StockManager.Model.csproj" />
+    <ProjectReference Include="..\TS.StockManager.Repository\TS.StockManager.Repository.csproj" />
+    <ProjectReference Include="..\TS.StockManager.UnitOfWork\TS.StockManager.UnitOfWork.csproj" />
+  </ItemGroup>
+
+</Project>

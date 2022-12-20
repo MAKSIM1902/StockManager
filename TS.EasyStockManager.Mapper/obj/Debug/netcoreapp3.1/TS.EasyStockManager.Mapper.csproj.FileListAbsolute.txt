@@ -1,0 +1,17 @@
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.deps.json
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.pdb
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Common.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Data.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Model.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Data.pdb
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Model.pdb
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\bin\Debug\netcoreapp3.1\TS.EasyStockManager.Common.pdb
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.csproj.AssemblyReference.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.AssemblyInfoInputs.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.AssemblyInfo.cs
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.csproj.CopyComplete
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.dll
+C:\Users\512Dell\OneDrive\Рабочий стол\TSEasyStockManager-master\TS.EasyStockManager.Mapper\obj\Debug\netcoreapp3.1\TS.EasyStockManager.Mapper.pdb
